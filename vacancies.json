@@ -1,0 +1,2012 @@
+[
+    {
+        "title": "Python Developer Middle / Middle+",
+        "url": "https://hh.ru/vacancy/120464105",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Коммерческий опыт разработки от 2-ух лет. Уверенные знания и опыт работы с <highlighttext>Python</highlighttext>. Опыт работы с веб-фреймворками (Django..."
+    },
+    {
+        "title": "QA engineer Middle / инженер - тестировщик",
+        "url": "https://hh.ru/vacancy/121226475",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Дополнительными преимуществами будут: Навыки написания скриптов (Shell/Bash, <highlighttext>Python</highlighttext>,). Навыки автоматизированного тестирования на любом из языке программирования. Опыт работы с..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121371968",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки на <highlighttext>Python</highlighttext>3 от 2-х лет (ООП, структуры данных, асинхронное и многопоточное программирование). Опыт работы с framework..."
+    },
+    {
+        "title": "Инженер по тестированию (портал gosuslugi.ru)",
+        "url": "https://hh.ru/vacancy/121429088",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы с технологическом стэком – <highlighttext>Python</highlighttext>, REST API, WEB Socket, Socket.io, Redis, Kibana. Знание и понимание принципов работы REST API..."
+    },
+    {
+        "title": "QA Engineer",
+        "url": "https://hh.ru/vacancy/121390248",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Будет плюсом: Опыт в автоматизации тестирования (<highlighttext>Python</highlighttext> + pytest). Навыки работы с Appium, Espresso, XCTest или другими фреймворками. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121429807",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки на <highlighttext>Python</highlighttext> в Linux, Git. Знание основ РСУБД, HTTP, REST API, принципов ООП. Готовность разбираться в предметной области..."
+    },
+    {
+        "title": "Middle Frontend developer",
+        "url": "https://hh.ru/vacancy/121344844",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки в качестве frontend -разработчика не менее двух лет. Уверенные знания JavaScript (Typescript), HTML5, CSS3, React и..."
+    },
+    {
+        "title": "QA Engineer / Тестировщик",
+        "url": "https://hh.ru/vacancy/121131906",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы тестировщиком ПО от 3 лет. Умение работать с разными базами данных, знание основ SQL. Составление понятной, полной, актуальной..."
+    },
+    {
+        "title": "QA инженер (frontend)",
+        "url": "https://hh.ru/vacancy/121390609",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Есть опыт разработки автоматизированных сценариев на JavaScript/TypeScript, Java, Kotlin, <highlighttext>Python</highlighttext> или C#. Есть опыт работы с DevTools, снифферами трафика..."
+    },
+    {
+        "title": "Python Developer",
+        "url": "https://hh.ru/vacancy/121378782",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Обладаете уверенными знаниями и опытом разработки на <highlighttext>Python</highlighttext>. Имеете опыт разработки модульных и интеграционных тестов (предпочтительно pytest). Умеете работать с..."
+    },
+    {
+        "title": "Manual QA Engineer",
+        "url": "https://hh.ru/vacancy/121344804",
+        "salary": {
+            "from": 0,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "requirements": "Навыки работы с Android Studio, Xcode. - Базовые знания JavaScript, <highlighttext>Python</highlighttext> или Kotlin. - Опыт написания автотестов (Playwright, Cypress, Appium, Detox и..."
+    },
+    {
+        "title": "Manual QA Engineer",
+        "url": "https://hh.ru/vacancy/109239766",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы с баг-трекинговой системой (у нас - YouTrack). Имеете опыт автоматизации тестирования на <highlighttext>Python</highlighttext> или Java. Имеете опыт работы..."
+    },
+    {
+        "title": "Инженер-сборщик FPV дронов",
+        "url": "https://hh.ru/vacancy/120998843",
+        "salary": {
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт сборки мультироторных дронов, а также БПЛА Самолетного типа. Навыки программирования на языке <highlighttext>Python</highlighttext> будет преимуществом. Высшее или среднее техническое..."
+    },
+    {
+        "title": "Тестировщик ПО (QA)",
+        "url": "https://hh.ru/vacancy/121306006",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы с тестовой документацией (умение грамотно составлять тест-кейсы, баг-репорты). Владение JavaScript/<highlighttext>Python</highlighttext>/Java/Kotlin на уровне, необходимом..."
+    },
+    {
+        "title": "Программист Python",
+        "url": "https://hh.ru/vacancy/121404661",
+        "salary": {
+            "from": 80000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "SQL, SQL server. Чтение и написание API, web запросы, <highlighttext>Python</highlighttext>, Django, FastApi, Flask (знание минимум одного из)."
+    },
+    {
+        "title": "QA инженер",
+        "url": "https://hh.ru/vacancy/121365987",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Умение работать с DevTools. Навыки работы с Postman. Базовые знания <highlighttext>Python</highlighttext> и фреймворков для UI-тестирования (Playwright, Selenium и др.). "
+    },
+    {
+        "title": "Python -разработчик",
+        "url": "https://hh.ru/vacancy/121348101",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Хорошее понимание принципов REST-архитектуры. Знание ORM (желательно Django ORM). Опыт работы с Docker. Опыт CI/CD."
+    },
+    {
+        "title": "Стажер-разработчик",
+        "url": "https://hh.ru/vacancy/120905143",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Знание SQL. Владение языками программирования. Знание Java, C#, <highlighttext>Python</highlighttext>, C++. Опыт работы с PostgreSQL / Postgres Pro, Oracle, My SQL, MS..."
+    },
+    {
+        "title": "QA Engineer Junior",
+        "url": "https://hh.ru/vacancy/121300051",
+        "salary": {
+            "from": 0,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "requirements": "Понимаете как работают современные веб-приложения (протокол HTTP, клиент-серверное разделение). - Знаете английский хотя бы на уровне B1."
+    },
+    {
+        "title": "Ручной тестировщик",
+        "url": "https://hh.ru/vacancy/121381990",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Понимание принципов ООП. Знания основ теории автоматизированного тестирования. Знания <highlighttext>Python</highlighttext>. Знание Bash, XPath, RegExp. Опыт работы с Git, понимание git..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121327518",
+        "salary": {
+            "from": 80000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Уверенное знание <highlighttext>Python</highlighttext> 3.12+ и стандартной библиотеки. Опыт работы с asyncio, httpx, SQLAlchemy (async), Alembic, Pydantic, poetry. "
+    },
+    {
+        "title": "Python Backend Разработчик",
+        "url": "https://hh.ru/vacancy/121340820",
+        "salary": {
+            "from": 90000,
+            "to": 180000,
+            "currency": "RUR"
+        },
+        "requirements": "Обязательное выполнение тестового задания (на 4-6ч). Обязательные Требования: <highlighttext>Python</highlighttext> + Django, Celery, Celery Beat, git, docker/docker-compose..."
+    },
+    {
+        "title": "Ручной тестировщик",
+        "url": "https://hh.ru/vacancy/121381989",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Понимание принципов ООП. Знания основ теории автоматизированного тестирования. Знания <highlighttext>Python</highlighttext>. Знание Bash, XPath, RegExp. Опыт работы с Git, понимание git..."
+    },
+    {
+        "title": "Инженер(сервера)",
+        "url": "https://hh.ru/vacancy/121306878",
+        "salary": {
+            "from": 0,
+            "to": 173076,
+            "currency": "RUR"
+        },
+        "requirements": "Знаeте современное компьютерное железо и понимаете принципы совместимости комплектующих в объеме достаточном для сборки работоспособного изделия. Знаете операционные системы семейства..."
+    },
+    {
+        "title": "JS frontend developer",
+        "url": "https://hh.ru/vacancy/121394148",
+        "salary": {
+            "from": 75000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Мы ожидаем от кандидата глубокого понимания принципов ООП, внимательности к логике и архитектуре проекта, а также: — стремления создавать осмысленный и..."
+    },
+    {
+        "title": "Frontend разработчик (React)",
+        "url": "https://hh.ru/vacancy/121417753",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "3+ лет коммерческой разработки на React + TypeScript. Глубокое понимание Virtual DOM, Hooks, Context vs Redux/ Zustand. "
+    },
+    {
+        "title": "Backend разработчик python (junior)",
+        "url": "https://hh.ru/vacancy/121211572",
+        "salary": {
+            "from": 0,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт разработки Backend (<highlighttext>Python</highlighttext>) приложений от 1 года. Опыт применения фреймворков/библиотек под <highlighttext>Python</highlighttext>. Знание паттернов проектирования: GOF, SOLID. "
+    },
+    {
+        "title": "Python разработчик",
+        "url": "https://hh.ru/vacancy/121370987",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы с контейнеризацией. Умение писать Dockerfile. Знание <highlighttext>Python</highlighttext>, в т.ч. распространённых пакетов для работы с данными. "
+    },
+    {
+        "title": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/121380408",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Базовые знания клиент-серверной архитектуры. Опыт работы с Jira. Будет плюсом: знание основ автоматизации (Selenium, <highlighttext>Python</highlighttext>) или нагрузочного тестирования (JMeter..."
+    },
+    {
+        "title": "Программист-разработчик",
+        "url": "https://hh.ru/vacancy/121308292",
+        "salary": {
+            "from": 180000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "HTML. Желательные навыки: - Gitlab."
+    },
+    {
+        "title": "Manual QA Engineer",
+        "url": "https://hh.ru/vacancy/121379198",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "...articulate problems, and understand the importance of feedback. Knowledge of <highlighttext>Python</highlighttext> (basic level). Experience in writing API and UI autotests."
+    },
+    {
+        "title": "Инженер-тестировщик",
+        "url": "https://hh.ru/vacancy/120812947",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Будет плюсом если ваш опыт содержит: - Умение писать тестовые сценарии и автоматизировать тестирование API с использованием языков программирования (например, <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121415232",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR"
+        },
+        "requirements": "Знание основ ООП. Опыт работы с сетевыми протоколами https, websocket. Знание фреймворка django. Знание основ работы с ОС windows - ФС..."
+    },
+    {
+        "title": "Аналитик данных (SQL/Excel)",
+        "url": "https://hh.ru/vacancy/121339426",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Математический склад ума. Хорошие аналитические навыки, внимание к деталям. Умение работать с большим объемом информации. Знание Power BI, <highlighttext>Python</highlighttext> будет..."
+    },
+    {
+        "title": "Тестировщик / QA engineer",
+        "url": "https://hh.ru/vacancy/121377277",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Высшее образование в сфере IT, математики (желательно). Опыт работы в тестировании ПО от 1 года( не учебный опыт). "
+    },
+    {
+        "title": "QA инженер",
+        "url": "https://hh.ru/vacancy/121374844",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт тестирования UI, REST API (Postman или подобное), back-сервисов. Знание <highlighttext>python</highlighttext> / bash / shell. Знание pytest + selenium (или другое). "
+    },
+    {
+        "title": "Стажер-разработчик (Data Scientist), Отдел технологического консалтинга",
+        "url": "https://hh.ru/vacancy/121432370",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Хорошая алгоритмическая подготовка. Знание любых языков программирования помимо <highlighttext>Python</highlighttext>. Опыт работы с PySpark и понимание концепций распределённых вычислений. "
+    },
+    {
+        "title": "Senior QA Engineer",
+        "url": "https://hh.ru/vacancy/120516983",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт автоматизации процесса тестирования (написание автоматических тестов). Умение читать и запускать код на <highlighttext>python</highlighttext> или java. Инженерный бэкграунд и опыт..."
+    },
+    {
+        "title": "Python Developer (Middle)",
+        "url": "https://hh.ru/vacancy/121409464",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы в разработке на <highlighttext>Python</highlighttext> от 2-х лет. Знание <highlighttext>Python</highlighttext>3 (stdlib, распространённых библиотек/фреймворков (fastapi/django/asyncio)). "
+    },
+    {
+        "title": "Backend-разработчик (junior/middle)",
+        "url": "https://hh.ru/vacancy/120171329",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Имеете опыт работы в системном администрировании (настройка сетей). Знаете языки программирования <highlighttext>Python</highlighttext>, C++, язык запросов SQL. Знаете протоколы HTTP, WS..."
+    },
+    {
+        "title": "Сетевой инженер / Network Engineer (low-latency, RF)",
+        "url": "https://hh.ru/vacancy/121399668",
+        "salary": {
+            "from": 0,
+            "to": 800000,
+            "currency": "RUR"
+        },
+        "requirements": "Умение диагностировать и устранять сетевые инциденты в распределённой инфраструктуре. Навыки работы с Ansible, <highlighttext>Python</highlighttext>, NetBox или аналогичными инструментами автоматизации. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121221103",
+        "salary": {
+            "from": 75000,
+            "to": 100000,
+            "currency": "RUR"
+        },
+        "requirements": "Владение <highlighttext>Python</highlighttext>. Знание основ Git. Знание библиотек pandas, requests. Будут плюсом: навыки разработки баз данных. Умение находить нетривиальные решения. "
+    },
+    {
+        "title": "Senior IT Recruiter",
+        "url": "https://hh.ru/vacancy/121424032",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "У тебя есть опыт работы в роли recruiter / HR с аналогичными вакансиями от 3 лет и выше. Имеешь опыт в..."
+    },
+    {
+        "title": "Middle QA Engineer (web/back/mob/api)",
+        "url": "https://hh.ru/vacancy/119865616",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Работа с инструментами – Jira, Allure TestOps, Charles, DevTools, ELK. Базовые знания автоматизации (<highlighttext>Python</highlighttext> + Selenium) или готовность обучаться (есть курсы). "
+    },
+    {
+        "title": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/121349904",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "...и формулировать выводы. Опыт построения дашбордов и визуализации данных для бизнес-заказчиков. Будет плюсом: опыт автоматизации отчетности с помощью <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Data Scientist / ML Engineer",
+        "url": "https://hh.ru/vacancy/121370571",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы от 2–3 лет в роли Data Scientist или ML Engineer. Понимание основ статистики, теории вероятностей, математической логики. "
+    },
+    {
+        "title": "Технический директор (CTO)",
+        "url": "https://hh.ru/vacancy/121429491",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Экспертные знания технологий, языков и фреймворков, используемых в нашем стеке (например, PHP, <highlighttext>Python</highlighttext>; Vue 3; MySQL; RabbitMQ, Redis, Elasticsearch, ClickHouse..."
+    },
+    {
+        "title": "QA-специалист",
+        "url": "https://hh.ru/vacancy/121006022",
+        "salary": {
+            "from": 0,
+            "to": 100000,
+            "currency": "RUR"
+        },
+        "requirements": "Будет плюсом: Опыт написания автотестов (например, на <highlighttext>Python</highlighttext>, JavaScript, Java и т.п.). Опыт в нагрузочном тестировании, работе с CI..."
+    },
+    {
+        "title": "Младший аналитик данных",
+        "url": "https://hh.ru/vacancy/120865772",
+        "salary": {
+            "from": 30000,
+            "to": 40000,
+            "currency": "RUR"
+        },
+        "requirements": "Образование в профильной или смежной области. Знание <highlighttext>Python</highlighttext> (в особенности pandas), Google Sheets, Google Colab, GitHub, API. Будет круто, если..."
+    },
+    {
+        "title": "Python developer (Senior)",
+        "url": "https://hh.ru/vacancy/121298906",
+        "salary": {
+            "from": 0,
+            "to": 350000,
+            "currency": "RUR"
+        },
+        "requirements": "Уверенное владение <highlighttext>Python</highlighttext> 3.8+. Опыт работы с CУБД (MySQL\\Postgres\\Mongo). Опыт работы с Redis. Опыт использования очередей..."
+    },
+    {
+        "title": "Аналитик данных в направление Поиска",
+        "url": "https://hh.ru/vacancy/120967792",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Продвинутый SQL (PL/SQL, T-SQL), <highlighttext>Python</highlighttext> (pandas/pyspark, matplotlib/seaborn/plotly), HDFS, Hadoop. Желательно знание метрик качества ML – моделей..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121380056",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы под Astra Linux от 3 лет. Опыт разработки на <highlighttext>Python</highlighttext> от 3 лет. Опыт разработки хранимых процедур и..."
+    },
+    {
+        "title": "QA Automation Engineer (Logistics Platform) | Инженер по тестированию",
+        "url": "https://hh.ru/vacancy/121392624",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт автоматизации тестирования на <highlighttext>Python</highlighttext> от 2-х лет Общий опыт в QA (ручное + авто) от 3-х лет. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120919497",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "<highlighttext>Python</highlighttext>3. Django Rest, Flask, FastAPI. PostgreSQL. HTML/CSS/JS (бога фронтенда не ищем, но хорошее понимание и возможность вносить..."
+    },
+    {
+        "title": "Инженер-программист / frontend-разработчик (создание интерфейсов, разработка приложений)",
+        "url": "https://hh.ru/vacancy/120910060",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "...PostgreSQL) и NoSQL (MongoDB) базами данных. Знание основ SEO и оптимизации производительности веб-приложений. Знания языков программирования PHP, <highlighttext>Python</highlighttext>, Java."
+    },
+    {
+        "title": "Тестировщик QA",
+        "url": "https://hh.ru/vacancy/120773498",
+        "salary": {
+            "from": 130000,
+            "to": 170000,
+            "currency": "RUR"
+        },
+        "requirements": "Понимание принципов безопасной разработки. Умение анализировать требования и разрабатывать тестовую документацию. Опыт работы с автоматизированным тестированием. Знание языков программирования (<highlighttext>Python</highlighttext>)."
+    },
+    {
+        "title": "ГИС-специалист (Отдел геоинформационных технологий)",
+        "url": "https://hh.ru/vacancy/121391190",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Готовность к работе с большими объемами данных и рутинным задачам. Знание <highlighttext>Python</highlighttext> и опыт работы с пакетами gdal, geopandas, rasterio. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121222688",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Понимание концепции асинхронного программирования в <highlighttext>Python</highlighttext>. - Опыт работы с FastAPI, Pydantic, Pytest,<highlighttext>python</highlighttext>-telegram-bot/aiogram, SQLAlchemy, alembic. - "
+    },
+    {
+        "title": "Младший тестировщик чат-ботов/младший тестировщик диалоговых систем",
+        "url": "https://hh.ru/vacancy/121409875",
+        "salary": {
+            "from": 0,
+            "to": 70000,
+            "currency": "RUR"
+        },
+        "requirements": "...интерес представляют казахский, кыргызский, испанский). Базовые навыки разработки на одном из языков программирования (предпочтительно на JavaScript, <highlighttext>Python</highlighttext>, Kotlin или Java)."
+    },
+    {
+        "title": "Заместитель начальника инспекции Департамента аудита образования, науки и инноваций",
+        "url": "https://hh.ru/vacancy/120862523",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "...РФ и т.п.) - как преимущество. Владение инструментами анализа данных (<highlighttext>Python</highlighttext>, SQL, BI-системы, электронные таблицы, запросы по API) - как..."
+    },
+    {
+        "title": "Manual QA Engineer (Middle)",
+        "url": "https://hh.ru/vacancy/120318650",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Желание развиваться в сторону автоматизации тестирования (<highlighttext>Python</highlighttext>). Готовность работать в динамичной, быстро развивающейся команде, где применяются современные технологии и подходы."
+    },
+    {
+        "title": "Backend Developer",
+        "url": "https://hh.ru/vacancy/121361326",
+        "salary": {
+            "from": 100000,
+            "to": 220000,
+            "currency": "RUR"
+        },
+        "requirements": "Оконченное высшее образование. Уверенное знание <highlighttext>Python</highlighttext> (aiohttp/FastAPI/Django/Flask). Базовые знания SQL. Знакомство с реляционными СУБД. Понимание принципов ООП..."
+    },
+    {
+        "title": "Senior QA engineer",
+        "url": "https://hh.ru/vacancy/121376806",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Знание систем баг-трекинга, управления знаниями и тестами. Понимание принципов CI/CD. Базовые навыки программирования на <highlighttext>Python</highlighttext>. Опыт проведения нагрузочного..."
+    },
+    {
+        "title": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/121406078",
+        "salary": {
+            "from": 0,
+            "to": 200000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт коммерческой backend-разработки от 3 лет. — Знание современных стеков (например: <highlighttext>Python</highlighttext> (Django/FastAPI), Node.js, Go, Java/Kotlin, PHP (Laravel..."
+    },
+    {
+        "title": "Java-разработчик (Инвестиционный бизнес)",
+        "url": "https://hh.ru/vacancy/121207878",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки и уверенное знание Java 8+. Опыт разработки и уверенное знание Spring Framework (Spring Core, Spring Boot, Spring..."
+    },
+    {
+        "title": "Тестировщик игр",
+        "url": "https://hh.ru/vacancy/121253853",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Базовые представления о геймдизайне. Базовые навыки программирования (<highlighttext>python</highlighttext>, lua). Умение работать с базами данных, понимание, что такое json, умение писать..."
+    },
+    {
+        "title": "Программист Python",
+        "url": "https://hh.ru/vacancy/121288554",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт проектирования, поддержки и разработки серверных компонентов на <highlighttext>Python</highlighttext>. Опыт работы с Git. Опыт системного администрирования: развертывание и настройка ОС..."
+    },
+    {
+        "title": "Аналитик (проверка качества данных, визуализация)",
+        "url": "https://hh.ru/vacancy/119597002",
+        "salary": {
+            "from": 0,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "requirements": "SQL, <highlighttext>Python</highlighttext>, BI-инструменты – как преимущество. Аналитические способности и критическое мышление. Внимание к деталям, способность к мультизадачности. Отличные навыки тайм..."
+    },
+    {
+        "title": "QA Engineer",
+        "url": "https://hh.ru/vacancy/120529655",
+        "salary": {
+            "from": 125000,
+            "to": 290000,
+            "currency": "RUR"
+        },
+        "requirements": "Готовность к инновациям и постоянному профессиональному росту. Ответственность за итоговое качество продукта и готовность принимать решения. Желание развиваться до Fullstack..."
+    },
+    {
+        "title": "Python developer",
+        "url": "https://hh.ru/vacancy/121224082",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Требуется наличие разговорного английского языка. Опыт коммерческой работы с <highlighttext>Python</highlighttext> от 2-х лет. ОБЯЗАТЕЛЬНЫЕ НАВЫКИ: Практический опыт написания и..."
+    },
+    {
+        "title": "Python-разработчик (Linux / Highload инфраструктура)",
+        "url": "https://hh.ru/vacancy/121374665",
+        "salary": {
+            "from": 250000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Основной фокус — стабильность, скорость и эффективность в условиях высоких нагрузок. — <highlighttext>Python</highlighttext> 3 (включая асинхронность). — Linux (глубокое понимание, настройка ядра, диагностика). — "
+    },
+    {
+        "title": "Специалист по Machine Learning/ML-инженер",
+        "url": "https://hh.ru/vacancy/121428192",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт от 1 года в коммерческой разработке на <highlighttext>Python</highlighttext>. Высшее техническое образование, с удовольствием рассмотрим студентов последних курсов. Знание <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "title": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120418224",
+        "salary": {
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Сильные аналитические навыки. Умение структурировать информацию. Умение видеть за числами физический смысл и находить причины явлений. Умение работать в команде. "
+    },
+    {
+        "title": "Разработчик искусственного интеллекта/python-backend",
+        "url": "https://hh.ru/vacancy/121321644",
+        "salary": {
+            "from": 130000,
+            "to": 130000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт разработки на <highlighttext>Python</highlighttext> от 1 года. Высшее образование в области математики, информатики или смежных дисциплин. Опыт разработки высоконагруженных микросервисов..."
+    },
+    {
+        "title": "Python-разработчик (trainee)",
+        "url": "https://hh.ru/vacancy/121289987",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки на <highlighttext>Python</highlighttext> от 1 года. Опыт работы с базами данных (Postgres, MongoDB, Redis). Понимание механизмов интегрирования (Restful, RPC..."
+    },
+    {
+        "title": "Ведущий инженер QA",
+        "url": "https://hh.ru/vacancy/121392188",
+        "salary": {
+            "from": 110000,
+            "to": 130000,
+            "currency": "RUR"
+        },
+        "requirements": "Навыки автоматизации тестирования (Selenium, Postman, <highlighttext>Python</highlighttext>/Java для автотестов — будет плюсом). Умение работать с CI/CD, Docker, базами данных - очень..."
+    },
+    {
+        "title": "Prompt-engineer / Промт-инженер",
+        "url": "https://hh.ru/vacancy/120824427",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт в разработке. Будет плюсом: Знание <highlighttext>Python</highlighttext>/JavaScript. Опыт работы с моделями различной размерности 7b, 70b. "
+    },
+    {
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://hh.ru/vacancy/121252238",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. "
+    },
+    {
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://hh.ru/vacancy/121252236",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/121375477",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Коммерческий опыт разработки на асинхронном <highlighttext>Python</highlighttext> (Aiohttp будет плюс) – от 3 лет. Понимание базовых принципов работы API. Опыт работы с..."
+    },
+    {
+        "title": "Инженер по тестированию СХД и ПАК",
+        "url": "https://hh.ru/vacancy/121348363",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт автоматизации тестирования на одном из языков: <highlighttext>Python</highlighttext>, Java, C#. Умение создавать подробную тестовую документацию. Будет плюсом: Знание методологий Agile..."
+    },
+    {
+        "title": "Frontend developer/React разработчик",
+        "url": "https://hh.ru/vacancy/121160623",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки в качестве frontend -разработчика не менее двух лет. Уверенные знания JavaScript (Typescript), HTML5, CSS3, React и..."
+    },
+    {
+        "title": "Инженер по тестированию manual",
+        "url": "https://hh.ru/vacancy/121092251",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Навыки программирования. Знакомство с системами автотестирования. Умение использовать shell, <highlighttext>python</highlighttext>. Кругозор в области Java-технологий. Опыт работы с Jenkins. "
+    },
+    {
+        "title": "Тестировщик / QA Engineer (ручное тестирование)",
+        "url": "https://hh.ru/vacancy/120987463",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы в должности QA от 1 года. Проактивность и умение самостоятельно расставлять приоритеты. Уверенный пользователь UNIX. Все манипуляции с..."
+    },
+    {
+        "title": "QA Manual (iGaming)",
+        "url": "https://hh.ru/vacancy/121287250",
+        "salary": {
+            "from": 1000,
+            "to": 1200,
+            "currency": "USD"
+        },
+        "requirements": "Опыт тестирования web-приложений. - Базовое владение языком программирования (наш стек <highlighttext>Python</highlighttext> / Typescript). - Базовые знания html/css. - Знание терминов протокола HTTP..."
+    },
+    {
+        "title": "Младший тестировщик/Junior+ QA",
+        "url": "https://hh.ru/vacancy/120985717",
+        "salary": {
+            "from": 0,
+            "to": 60000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт написания автотестов на <highlighttext>Python</highlighttext> с использованием Selenium (pytest или любой другой тестовый фреймворк). Навыки разработки API-тестов на <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120720355",
+        "salary": {
+            "from": 70000,
+            "to": 110000,
+            "currency": "RUR"
+        },
+        "requirements": "Уверенное владение инструментами для создания RESTful API с использованием <highlighttext>Python</highlighttext> (FastAPI и другие). Опыт организации кеширования. Опыт работы с Git..."
+    },
+    {
+        "title": "Data engineer",
+        "url": "https://hh.ru/vacancy/120386773",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт разработки прототипов витрин с использованием SQL, Java, <highlighttext>Python</highlighttext>, Spark. Опыт разработки алгоритмов тестирования. Опыт документирования разрабатываемых компонентов ПО. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120415611",
+        "salary": {
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. Понимание принципов ООП и паттернов проектирования. Опыт работы с одним из современных..."
+    },
+    {
+        "title": "Младший аналитик данных",
+        "url": "https://hh.ru/vacancy/121390593",
+        "salary": {
+            "from": 70000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Уверенное владение SQL — умение извлекать и обрабатывать данные. Базовые навыки <highlighttext>Python</highlighttext> — для анализа и обработки данных. Знание статистики и теории..."
+    },
+    {
+        "title": "Backend-Developer Python (intern/junior)",
+        "url": "https://hh.ru/vacancy/120575970",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "<highlighttext>Python</highlighttext> 3.12. Asyncpg, aiohttp/fastapi/flask. PostgreSQL, Redis; Docker, Git/gitlab. Хорошее знание <highlighttext>Python</highlighttext> 3. Опыт работы с любыми..."
+    },
+    {
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://hh.ru/vacancy/121252239",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. "
+    },
+    {
+        "title": "Младший Data Scientist (команда Marketing)",
+        "url": "https://hh.ru/vacancy/121423787",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Способность оперативно прототипировать решение и катить его в тест. Знание <highlighttext>Python</highlighttext> и умение писать SQL запросы. Готовность быстро учиться, принимать..."
+    },
+    {
+        "title": "Бэкэнд разработчик Python (Software engineer)",
+        "url": "https://hh.ru/vacancy/120731175",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Готовность учиться технологиям GenAI. Владение <highlighttext>Python</highlighttext> или JavaScript (или другим языком общего назначения) будет преимуществом. Хороший вкус в исследовательской работе. "
+    },
+    {
+        "title": "Программист",
+        "url": "https://hh.ru/vacancy/121311260",
+        "salary": {
+            "from": 60000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": null
+    },
+    {
+        "title": "Golang-разработчик",
+        "url": "https://hh.ru/vacancy/121158193",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Уверенное знание Go, <highlighttext>Python</highlighttext>. SQL. ML. Data Science. Big Data."
+    },
+    {
+        "title": "Senior Frontend Developer / Старший фронтэнд разработчик",
+        "url": "https://hh.ru/vacancy/120477161",
+        "salary": {
+            "from": 5000,
+            "to": 10000,
+            "currency": "USD"
+        },
+        "requirements": "Уверенное знание HTML5 и CSS3. Опыт с <highlighttext>Python</highlighttext>, Node, SQL — будет плюсом. Если тебе интересно решать нетривиальные задачи..."
+    },
+    {
+        "title": "Junior Python Разработчик",
+        "url": "https://hh.ru/vacancy/120655087",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Базовые знания SQL и понимание работы с СУБД (например, PostgreSQL). Опыт написания API (FastAPI / Django REST Framework) или желание быстро..."
+    },
+    {
+        "title": "Python-программист (Python backend developer)",
+        "url": "https://hh.ru/vacancy/121252237",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. "
+    },
+    {
+        "title": "Junior разработчик-исследователь в R&D (биоинформатика / математическая оптимизация)",
+        "url": "https://hh.ru/vacancy/121402973",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Заканчиваете обучение или имеете профильное образование: биоинформатика, биология, прикладная математика, физика, ИТ. Уверенно владеете <highlighttext>Python</highlighttext>, знакомы с Pandas, NumPy, умеете..."
+    },
+    {
+        "title": "Data Scientist (Junior)",
+        "url": "https://hh.ru/vacancy/120968253",
+        "salary": {
+            "from": 0,
+            "to": 100000,
+            "currency": "RUR"
+        },
+        "requirements": "Высшее образование (математическое, техническое). Возможность работать полную рабочую неделю. Знание современных архитектур нейросетей. Понимание как устроены классические алгоритмы машинного обучения..."
+    },
+    {
+        "title": "Уборщик/Уборщица в офис",
+        "url": "https://hh.ru/vacancy/121394765",
+        "salary": {
+            "from": 80000,
+            "to": 90000,
+            "currency": "RUR"
+        },
+        "requirements": "Исполнительность, ответственность, порядочность, дружелюбие, вежливость. Умение наводить и поддерживать порядок и чистоту. Умение использовать уборочный инвентарь, моющие и дезинфицирующие средства."
+    },
+    {
+        "title": "Уборщица/уборщик в офис",
+        "url": "https://hh.ru/vacancy/121374786",
+        "salary": {
+            "from": 90000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность, исполнительность, не конфликтность. Знание техники безопасности при работе с моющими средствами. Опыт работы в качестве <highlighttext>уборщика</highlighttext> офисных помещений обязателен."
+    },
+    {
+        "title": "Офис-менеджер",
+        "url": "https://hh.ru/vacancy/121387905",
+        "salary": {
+            "from": 200000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы офис-менеджером от 3 лет. Знание делового письменного и устного этикета. Уверенное пользование оргтехникой (принтеры, сканеры, мини-АТС). "
+    },
+    {
+        "title": "Уборщик/уборщица в офис",
+        "url": "https://hh.ru/vacancy/121430006",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт аналогичной работы от 1 года. Ответственная. Аккуратная."
+    },
+    {
+        "title": "Домработница-домработник/горничная",
+        "url": "https://hh.ru/vacancy/121434513",
+        "salary": {
+            "from": 8000,
+            "to": 10000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы на аналогичной должности в семье VIP-уровня от 3-х лет, наличие рекомендаций. - Навыки ухода за VIP-гардеробом..."
+    },
+    {
+        "title": "Горничная",
+        "url": "https://hh.ru/vacancy/121436199",
+        "salary": {
+            "from": 170000,
+            "to": 180000,
+            "currency": "RUR"
+        },
+        "requirements": "Требования . Наличие опыта работы. Умение работать с премиальным сегментом бытовой техники . -ответственность -пунктуальность -тактичность. -готовность прохождения полиграфа ."
+    },
+    {
+        "title": "Уборщик офисных помещений",
+        "url": "https://hh.ru/vacancy/121390971",
+        "salary": {
+            "from": 90000,
+            "to": 90000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт от 1 года."
+    },
+    {
+        "title": "Перегонщик в городе",
+        "url": "https://hh.ru/vacancy/121301667",
+        "salary": {
+            "from": 0,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы не требуется.  Активный водительский стаж категории В, от 1-ого года (ОБЯЗАТЕЛЬНО!!!). Телефон системы Android от 8.0..."
+    },
+    {
+        "title": "Персональный водитель руководителя",
+        "url": "https://hh.ru/vacancy/121249529",
+        "salary": {
+            "from": 130000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы персональным водителем от 5-ти лет. Наличие рекомендаций от предыдущих работодателей. Опыт вождения автомобилей представительского класса. "
+    },
+    {
+        "title": "Руководитель АХО/Начальник АХО",
+        "url": "https://hh.ru/vacancy/121429967",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Организаторские навыки. Хозяйственный подход к решению задач. Уверенный пользователь ПК, знание пакета программ MS Office,Excel. Желательно опыт работы в..."
+    },
+    {
+        "title": "Кофе-леди / кофе-мен на VIP этаж",
+        "url": "https://hh.ru/vacancy/120661894",
+        "salary": {
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы кофе-леди/официантом от 1-2 лет. Опыт работы с высшим руководством. Знание основ сервировки и подачи блюд..."
+    },
+    {
+        "title": "Секретарь на ресепшен",
+        "url": "https://hh.ru/vacancy/120468775",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Наличие опыта работы на аналогичной должности. - Знание специальных программ: Word, Excel. - Грамотная речь, знание делового этикета. - Личные качества: коммуникабельность, инициативность..."
+    },
+    {
+        "title": "Администратор",
+        "url": "https://hh.ru/vacancy/121358232",
+        "salary": {
+            "from": 5000,
+            "to": 5000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы в гостиничном бизнесе или сфере обслуживания приветствуется. Грамотная речь, стрессоустойчивость. Навыки работы с ПК (1С, Excel)."
+    },
+    {
+        "title": "Помощница/Помощник по дому в загородный дом",
+        "url": "https://hh.ru/vacancy/121410770",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Нужна аккуратная, доброжелательная, порядочная и трудолюбивая для помощи в содержании загородного дома.  Опыт работы в VIP семьях.  Любовь к чистоте..."
+    },
+    {
+        "title": "Утренняя уборщица в офис, м. Китай город",
+        "url": "https://hh.ru/vacancy/121339748",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": null
+    },
+    {
+        "title": "Уборщица/Уборщик в салон красоты (три дня в неделю)",
+        "url": "https://hh.ru/vacancy/121408426",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Рассматриваем без опыта работы."
+    },
+    {
+        "title": "Уборщица/уборщик",
+        "url": "https://hh.ru/vacancy/121395768",
+        "salary": {
+            "from": 80000,
+            "to": 85000,
+            "currency": "RUR"
+        },
+        "requirements": null
+    },
+    {
+        "title": "Специалист по документообороту",
+        "url": "https://hh.ru/vacancy/121270036",
+        "salary": {
+            "from": 0,
+            "to": 90000,
+            "currency": "RUR"
+        },
+        "requirements": "Опытный пользователь ПК, знание 1С:Документооборот. Высокий уровень коммуникативных навыков, грамотная письменная и устная речь. Умение работать в режиме..."
+    },
+    {
+        "title": "Домработница/домработник",
+        "url": "https://hh.ru/vacancy/121268090",
+        "salary": {
+            "from": 85000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "опыт работы (желательно в большом современном загородном доме или квартире). - бережное отношение к имуществу, аккуратность, ответственность, исполнительность, чистоплотность, вежливость. - активность."
+    },
+    {
+        "title": "Уборщица/уборщик",
+        "url": "https://hh.ru/vacancy/121412120",
+        "salary": {
+            "from": 54000,
+            "to": 54000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы по уборке помещений, желательно, но не обязательно пищевых помещений ( ресторан, кухня ). Хорошая русская речь. Исполнительность. Дружелюбие."
+    },
+    {
+        "title": "Заместитель Управляющего кафе",
+        "url": "https://hh.ru/vacancy/121437295",
+        "salary": {
+            "from": 150000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы в ресторанной сфере от 1 до 3 лет. Умение работать с системой iiko и знание основ бухгалтерии. "
+    },
+    {
+        "title": "Администратор посуточной аренды квартир",
+        "url": "https://hh.ru/vacancy/120832256",
+        "salary": {
+            "from": 60000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "У вас есть всё для организации удаленной работы: ноутбук или ПК, гарнитура и стабильный интернет. Вы способны концентрироваться и работать..."
+    },
+    {
+        "title": "Уборщица/уборщик в офис",
+        "url": "https://hh.ru/vacancy/121303480",
+        "salary": {
+            "from": 40000,
+            "to": 80000,
+            "currency": "RUR"
+        },
+        "requirements": "Понимание особенностей применения бытовой химии. Опыт работы в направлении клининга от 1 года. Ответственный подход в работе. Честность. Исполнительность. "
+    },
+    {
+        "title": "Уборщик\\Посудомойщик",
+        "url": "https://hh.ru/vacancy/120930210",
+        "salary": {
+            "from": 45000,
+            "to": 65000,
+            "currency": "RUR"
+        },
+        "requirements": "Желание работать."
+    },
+    {
+        "title": "Уборщица дневная /уборщик в офис Банка (м. Таганская)",
+        "url": "https://hh.ru/vacancy/121257472",
+        "salary": {
+            "from": 75000,
+            "to": 80000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность, исполнительность, аккуратность."
+    },
+    {
+        "title": "Уборщица / Уборщик офисных помещений",
+        "url": "https://hh.ru/vacancy/121430139",
+        "salary": {
+            "from": 0,
+            "to": 70000,
+            "currency": "RUR"
+        },
+        "requirements": "Умение быстро и качественно осуществлять уборку. Аккуратность, ответственность, доброжелательность, дисциплинированность."
+    },
+    {
+        "title": "Уборщица / уборщик офисного помещения в юридическую компанию",
+        "url": "https://hh.ru/vacancy/121218917",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Мы специализированная юридическая компания «Воин в праве», наш основной вид деятельности - защита прав военнослужащих любой категории и членов их семей. "
+    },
+    {
+        "title": "Уборщица/уборщик офиса",
+        "url": "https://hh.ru/vacancy/121393540",
+        "salary": {
+            "from": 85000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Oтвeтcтвеннoе oтнoшeниe к рaбoтe. Исполнительнoсть."
+    },
+    {
+        "title": "Уборщица/уборщик офиса",
+        "url": "https://hh.ru/vacancy/121219688",
+        "salary": {
+            "from": 60000,
+            "to": 60000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность, качественно выполнять свою работу."
+    },
+    {
+        "title": "Уборщик/уборщица офисных помещений (м. Тургеневская)",
+        "url": "https://hh.ru/vacancy/121375481",
+        "salary": {
+            "from": 90000,
+            "to": 90000,
+            "currency": "RUR"
+        },
+        "requirements": "ответственность. трудолюбие."
+    },
+    {
+        "title": "Управляющая/управляющий",
+        "url": "https://hh.ru/vacancy/121171431",
+        "salary": {
+            "from": 250000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы управляющим в домах площадью от 1000 кв. м. -Знание английского языка на базовом уровне (для общения с филиппинками. -"
+    },
+    {
+        "title": "Уборщица/уборщик ВИП сектора в офис класса А+ (Вечер)",
+        "url": "https://hh.ru/vacancy/121280308",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы на позиции <highlighttext>уборщика</highlighttext> в ВИП зонах, аккуратность, внимательность. Знание химических средств."
+    },
+    {
+        "title": "Помощник режиссёра в театр",
+        "url": "https://hh.ru/vacancy/117295289",
+        "salary": {
+            "from": 70000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Рассматриваются ТОЛЬКО резюме с фотографией и аналогичным опытом работы !"
+    },
+    {
+        "title": "Смотритель базы отдыха",
+        "url": "https://hh.ru/vacancy/121152548",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Требования к смотрителю базы отдыха: техническое образование, опытный пользователь ПК, опыт эксплуатации дизельных отопительных котлов, умение работать руками, наличие вод. "
+    },
+    {
+        "title": "Горничная",
+        "url": "https://hh.ru/vacancy/121382422",
+        "salary": {
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR"
+        },
+        "requirements": "Умение пользоваться бытовой техникой. - Активность. - Порядочность. - Ответственность. - Дисциплина. - Замечать нюансы в уборке."
+    },
+    {
+        "title": "Уборщица / Уборщик офисных помещений",
+        "url": "https://hh.ru/vacancy/121217980",
+        "salary": {
+            "from": 105000,
+            "to": 105000,
+            "currency": "RUR"
+        },
+        "requirements": "Требования: Хорошо говорить и понимать русскую речь, быстро реагировать на требования администратора, не опаздывать на работу и не уходить раньше..."
+    },
+    {
+        "title": "Личный ассистент руководителя",
+        "url": "https://hh.ru/vacancy/121336060",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "RUR"
+        },
+        "requirements": "Структурный, пунктуальный, организованный, способный выстроить систему приоритетов в своей работе и руководителя. Ответственный (не просыпает, не забывает, не теряет, записывает..."
+    },
+    {
+        "title": "Уборщик помещений",
+        "url": "https://hh.ru/vacancy/121396616",
+        "salary": {
+            "from": 0,
+            "to": 40000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы <highlighttext>уборщиком</highlighttext> офисных помещений от 2 лет. Аккуратность, внимательность к деталям. Умение пользоваться профессиональными моющими средствами и оборудованием (швабры..."
+    },
+    {
+        "title": "Уборщица/уборщик офиса на вечер",
+        "url": "https://hh.ru/vacancy/121219020",
+        "salary": {
+            "from": 35000,
+            "to": 35000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность, качественно выполнять свою работу."
+    },
+    {
+        "title": "Уборщица/уборщик",
+        "url": "https://hh.ru/vacancy/121266419",
+        "salary": {
+            "from": 0,
+            "to": 60000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность и аккуратность. Способность работать в команде. Желание поддерживать чистоту и порядок."
+    },
+    {
+        "title": "Водитель-охранник",
+        "url": "https://hh.ru/vacancy/121398715",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Требования : - Опыт вождения от 3 лет. - Удостоверение охранника: Если у вас его пока нет, мы поможем оформить его в процессе..."
+    },
+    {
+        "title": "Управляющий загородной резиденцией, ВИП семья",
+        "url": "https://hh.ru/vacancy/120718548",
+        "salary": {
+            "from": 380000,
+            "to": 500000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы в премиальных резиденциях от 3-х лет на позиции управляющего/мажордома/личного помощника. ️ Опыт работы непосредственно с собственниками. ️ "
+    },
+    {
+        "title": "Горничная / Maid / Servant",
+        "url": "https://hh.ru/vacancy/110807691",
+        "salary": {
+            "from": 75000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Соблюдение стандартов внешнего вида, правил внутреннего трудового распорядка. Исполнительность, готовность работать в команде. Опыт работы в отелях будет Вашим преимуществом."
+    },
+    {
+        "title": "Уборщица/Уборщик в офис",
+        "url": "https://hh.ru/vacancy/121299240",
+        "salary": {
+            "from": 60000,
+            "to": 60000,
+            "currency": "RUR"
+        },
+        "requirements": "Знание правил санитарии и гигиены, уборки служебных помещений. Исполнительность, ответственность, порядочность, дружелюбие, вежливость. Умение наводить и поддерживать порядок и чистоту."
+    },
+    {
+        "title": "Инспектор",
+        "url": "https://hh.ru/vacancy/121427271",
+        "salary": {
+            "from": 75570,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы не менее 1 года в аналогичной должности или на должности <highlighttext>горничной</highlighttext>, <highlighttext>уборщика</highlighttext> общественных территорий, разнорабочего. Знание стандартных операционных..."
+    },
+    {
+        "title": "Уборщик производственных и офисных помещений",
+        "url": "https://hh.ru/vacancy/121236479",
+        "salary": {
+            "from": 50000,
+            "to": 50000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы в уборке помещений. Доброжелательность, ответственность, исполнительность, трудолюбие."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/121216839",
+        "salary": {
+            "from": 60000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Владение оргтехникой, уверенный пользователь MS Word, MS Excel, 1С. Аналитический склад ума, ответственность, нацеленность на результат. Навыки деловой переписки. "
+    },
+    {
+        "title": "Дворник в Посольство Индии в РФ",
+        "url": "https://hh.ru/vacancy/121093050",
+        "salary": {
+            "from": 1185,
+            "to": 0,
+            "currency": "USD"
+        },
+        "requirements": "Условия: Резюме на вышеуказанную должность под заголовком \"Резюме на вакансию \"<highlighttext>Дворник</highlighttext>\" в Посольстве Индии\", заполненное строго на английском языке, в..."
+    },
+    {
+        "title": "Специалист административно-хозяйственного отдела",
+        "url": "https://hh.ru/vacancy/121383396",
+        "salary": {
+            "from": 0,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "requirements": "Организаторские навыки. Хозяйственный подход к решению задач. Опыт работы с подрядными организациями. Базовые знания по системам жизнеобеспечения зданий и помещений. "
+    },
+    {
+        "title": "Уборщица/Уборщик производственных и офисных помещений",
+        "url": "https://hh.ru/vacancy/121376574",
+        "salary": {
+            "from": 23000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность. Ответственность. Дисциплинированность. Трудолюбие."
+    },
+    {
+        "title": "Уборщица/уборщик",
+        "url": "https://hh.ru/vacancy/121417992",
+        "salary": {
+            "from": 35000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность, пунктуальность."
+    },
+    {
+        "title": "Уборщица/уборщик в Банк",
+        "url": "https://hh.ru/vacancy/121217996",
+        "salary": {
+            "from": 57000,
+            "to": 57000,
+            "currency": "RUR"
+        },
+        "requirements": "Паспорт. Аккуратность, пунктуальность."
+    },
+    {
+        "title": "Домработница/Домработник",
+        "url": "https://hh.ru/vacancy/119880599",
+        "salary": {
+            "from": 200000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Рассматриваем кандидатов с аналогичным опытом и рекомендациями."
+    },
+    {
+        "title": "Горничная Крылатское",
+        "url": "https://hh.ru/vacancy/121173895",
+        "salary": {
+            "from": 180000,
+            "to": 180000,
+            "currency": "RUR"
+        },
+        "requirements": "С опытом работы. Активная коллега, ранее имеющая опыт работы на больших площадях."
+    },
+    {
+        "title": "Администратор студии дубляжа",
+        "url": "https://hh.ru/vacancy/120822919",
+        "salary": {
+            "from": 55000,
+            "to": 65000,
+            "currency": "RUR"
+        },
+        "requirements": "Высшее образование. - Коммуникабельность, умение приятно общаться и находить общий язык и решение. Находчивость. Уважение к актерам и режиссерам. "
+    },
+    {
+        "title": "Консьерж",
+        "url": "https://hh.ru/vacancy/120857221",
+        "salary": {
+            "from": 60000,
+            "to": 60000,
+            "currency": "RUR"
+        },
+        "requirements": "1. Контрoль доступa в жилой дoм: - Bстpеча жильцoв и гоcтей, oткpытие двepей пo зaявкaм. - Внимательность, ответственность, вежливость. - Уверенное пользование WhаtsАрр..."
+    },
+    {
+        "title": "Уборщица (уборщик) в офис",
+        "url": "https://hh.ru/vacancy/121281168",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт работы в качестве <highlighttext>уборщицы</highlighttext> офисных помещений от года. Чистоплотность, ответственность, исполнительность, внимательность, активность."
+    },
+    {
+        "title": "Уборщица/уборщик в офис",
+        "url": "https://hh.ru/vacancy/121254671",
+        "salary": {
+            "from": 70000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность, трудолюбие, ответственность. Настрой на долгосрочное сотрудничество. Опыт работы не менее года."
+    },
+    {
+        "title": "Домработница/домработник",
+        "url": "https://hh.ru/vacancy/121294494",
+        "salary": {
+            "from": 154000,
+            "to": 178000,
+            "currency": "RUR"
+        },
+        "requirements": "Знание vip гардероба. Хороший опыт работы в дорогих домах. На долгое сотрудничество. ⁠инициативная и любящая свою работу."
+    },
+    {
+        "title": "Уборщица/уборщик",
+        "url": "https://hh.ru/vacancy/121378633",
+        "salary": {
+            "from": 70000,
+            "to": 130000,
+            "currency": "RUR"
+        },
+        "requirements": "Добросовестное отношение к работе. Аккуратность, исполнительность, не конфликтность. Опрятный внешний вид. Опыт работы в клининге не менее 1 года. "
+    },
+    {
+        "title": "Уборщик помещений (вечернее время)",
+        "url": "https://hh.ru/vacancy/119319202",
+        "salary": {
+            "from": 35000,
+            "to": 35000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность. Опрятность."
+    },
+    {
+        "title": "Уборщица (уборщик)",
+        "url": "https://hh.ru/vacancy/120355281",
+        "salary": {
+            "from": 90000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Наличие медицинской книжки или готовность ее оформить. ОТВЕТСТВЕННОСТЬ."
+    },
+    {
+        "title": "Персональный ассистент",
+        "url": "https://hh.ru/vacancy/121431652",
+        "salary": {
+            "from": 180000,
+            "to": 200000,
+            "currency": "RUR"
+        },
+        "requirements": "Релевантный опыт работы. Владение разговорным английским (В1-В2). Наличие собственного ПК и смартфона. Готовность к редким командировкам (Кипр..."
+    },
+    {
+        "title": "Домработница-домработник / горничная",
+        "url": "https://hh.ru/vacancy/121231894",
+        "salary": {
+            "from": 140000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Аналогичный опыт работы, наличие рекомендаций. Готовность пройти СБ и полиграф."
+    },
+    {
+        "title": "Администратор гостиницы",
+        "url": "https://hh.ru/vacancy/120874371",
+        "salary": {
+            "from": 9000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Многозадачность. Стрессоустойчивость. Неконфликтность. Аккуратность и внимательность при работе с заявками. Английский язык (другие иностранные языки тоже будут плюсом). Доброжелательность. "
+    },
+    {
+        "title": "Уборщик/уборщица",
+        "url": "https://hh.ru/vacancy/121096750",
+        "salary": {
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Желание работать, добросовестное исполнение обязанностей. Неконфликтность. Соблюдение требований техники безопасности."
+    },
+    {
+        "title": "Уборщица/уборщик в офис",
+        "url": "https://hh.ru/vacancy/121317679",
+        "salary": {
+            "from": 0,
+            "to": 67800,
+            "currency": "RUR"
+        },
+        "requirements": "Требования: Опыт работы в аналогичной должности будет преимуществом. Ответственность, аккуратность и внимательность к деталям. Физическая выносливость. РАССМАТРИВАЕМ КАНДИДАТОВ ТОЛЬКО С..."
+    },
+    {
+        "title": "Уборщик (уборщица)",
+        "url": "https://hh.ru/vacancy/121314915",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": null
+    },
+    {
+        "title": "Уборщик в офис c 18 до 22 часов",
+        "url": "https://hh.ru/vacancy/121234429",
+        "salary": {
+            "from": 46750,
+            "to": 46750,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность ; опрятный внешний вид. Пунктуальность , исполнительность."
+    },
+    {
+        "title": "Уборщица/уборщик в офис",
+        "url": "https://hh.ru/vacancy/121236327",
+        "salary": {
+            "from": 43000,
+            "to": 43000,
+            "currency": "RUR"
+        },
+        "requirements": "1. Опыт по уборке офисных помещений, аккуратность, внимательность."
+    },
+    {
+        "title": "Утренний Уборщик (офис)",
+        "url": "https://hh.ru/vacancy/121252797",
+        "salary": {
+            "from": 40000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность, внимательность к деталям. Навыки уборки в офисных помещениях как приоритет. Поддержка чистоты и бережное отношение к имуществу компании. "
+    },
+    {
+        "title": "Уборщик/уборщица офисных помещений",
+        "url": "https://hh.ru/vacancy/121302448",
+        "salary": {
+            "from": 58000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": null
+    },
+    {
+        "title": "Администратор в лофты",
+        "url": "https://hh.ru/vacancy/120925198",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность. Обязательность. Организованность."
+    },
+    {
+        "title": "Уборщик (уборщица) служебных помещений",
+        "url": "https://hh.ru/vacancy/121159784",
+        "salary": {
+            "from": 84800,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "чистоплотность, ответственность, аккуратность. - наличие практических навыков уборки, знание и опыт применения чистящих средств."
+    },
+    {
+        "title": "Уборщица/уборщик",
+        "url": "https://hh.ru/vacancy/121384941",
+        "salary": {
+            "from": 30000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Пунктуальность и аккуратность. Опыт работы в уборке от 3 до 6 лет."
+    },
+    {
+        "title": "Вечерняя уборщица/уборщик (м. Белорусская)",
+        "url": "https://hh.ru/vacancy/121272544",
+        "salary": {
+            "from": 28000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Хорошее знание русского языка. Трудолюбие. Раньше уходить нельзя (часовая ставка)."
+    },
+    {
+        "title": "Уборщица / Уборщик в офис (утро или вечер)",
+        "url": "https://hh.ru/vacancy/121321735",
+        "salary": {
+            "from": 35208,
+            "to": 35208,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность, чистоплотность, ответственность."
+    },
+    {
+        "title": "Уборщик производственных и служебных помещений",
+        "url": "https://hh.ru/vacancy/121400630",
+        "salary": {
+            "from": 29244,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность. Чистоплотность. Ответственность. Трудолюбие. Честность. Добросовестность. Внимательность."
+    },
+    {
+        "title": "Уборщик / уборщица",
+        "url": "https://hh.ru/vacancy/121252248",
+        "salary": {
+            "from": 43000,
+            "to": 58000,
+            "currency": "RUR"
+        },
+        "requirements": "Качественное выполнение обязанностей. Не конфликтность, доброжелательность."
+    },
+    {
+        "title": "Уборщик/уборщица производственных помещений",
+        "url": "https://hh.ru/vacancy/121380946",
+        "salary": {
+            "from": 110000,
+            "to": 110000,
+            "currency": "RUR"
+        },
+        "requirements": "Отсутствие медицинских противопоказаний к выполнению работ. Знание и понимание правил техники безопасности и производственной дисциплины. Умение работать в команде и..."
+    },
+    {
+        "title": "Администратор",
+        "url": "https://hh.ru/vacancy/120997846",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Знание программ MS Office (MS Word, MS Excel, MS Power Point, Outlook). Грамотная речь и знание делового этикета. "
+    },
+    {
+        "title": "Гардеробщик",
+        "url": "https://hh.ru/vacancy/121230856",
+        "salary": {
+            "from": 55000,
+            "to": 65000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность и аккуратность. Наличие медицинской книжки. Доброжелательность и вежливость в общении. Опыт работы не требуется, всему обучим на месте."
+    },
+    {
+        "title": "Утренняя уборщица/утренний уборщик",
+        "url": "https://hh.ru/vacancy/121227238",
+        "salary": {
+            "from": 30000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": null
+    },
+    {
+        "title": "Уборщица/уборщик (вечер)",
+        "url": "https://hh.ru/vacancy/120622913",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность и добросовестность. Соблюдение графика работы и качественное выполнение обязанностей. Опыт работы в уборке приветствуется. Знание правил использования моющих и..."
+    },
+    {
+        "title": "Уборщик служебных помещений",
+        "url": "https://hh.ru/vacancy/121299805",
+        "salary": {
+            "from": 0,
+            "to": 75000,
+            "currency": "RUR"
+        },
+        "requirements": "Аккуратность, чистоплотность, внимательность."
+    },
+    {
+        "title": "Личный ассистент / Chief of Everyday Comfort",
+        "url": "https://hh.ru/vacancy/121160427",
+        "salary": {
+            "from": 70000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Тебе не нужно объяснять, как вести всё в Notion, Google Docs, Trello или Telegram — ты это уже делаешь. "
+    },
+    {
+        "title": "Уборщица/уборщик помещений",
+        "url": "https://hh.ru/vacancy/121304432",
+        "salary": {
+            "from": 25000,
+            "to": 27000,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность. Выполнять качественно работу."
+    },
+    {
+        "title": "Уборщица/уборщик в клинику (м. Сокол)",
+        "url": "https://hh.ru/vacancy/121160639",
+        "salary": {
+            "from": 90000,
+            "to": 90000,
+            "currency": "RUR"
+        },
+        "requirements": "Знание назначения моющих и дезинфицирующих средств и правил обращения с ними. Позитивный настрой и доброжелательность. Наличие медицинской книжки."
+    },
+    {
+        "title": "Начальник административно-хозяйственного отдела",
+        "url": "https://hh.ru/vacancy/121353890",
+        "salary": {
+            "from": 115000,
+            "to": 115000,
+            "currency": "RUR"
+        },
+        "requirements": "ПРЕИМУЩЕСТВА ВАШЕЙ КАНДИДАТУРЫ: Релевантный опыт работы в системной, структурированной компании."
+    },
+    {
+        "title": "Уборщица (уборщик)",
+        "url": "https://hh.ru/vacancy/121327381",
+        "salary": {
+            "from": 45000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность и аккуратность. Желание поддерживать чистоту и порядок. Опыт работы не требуется, обучение на месте."
+    },
+    {
+        "title": "Администратор гостиницы",
+        "url": "https://hh.ru/vacancy/121133503",
+        "salary": {
+            "from": 80000,
+            "to": 130000,
+            "currency": "RUR"
+        },
+        "requirements": "Стрессоустойчивость. — Владением ПК и оргтехникой на уверенном уровне. — Владение русским языком и грамотная речь. — Обучаемость и высокие навыки продажи."
+    },
+    {
+        "title": "Помощник по хозяйству в частный дом",
+        "url": "https://hh.ru/vacancy/120925460",
+        "salary": {
+            "from": 90000,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "requirements": "Необходимо наличие технического образования, высшего или среднего. Опыт работы и незабытые навыки по специальности обязательны. Обучаемость, столярные, слесарные навыки для..."
+    },
+    {
+        "title": "Домработница/домработник/горничная в VIP семью (метро Курская)",
+        "url": "https://hh.ru/vacancy/120991741",
+        "salary": {
+            "from": 250000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Требования: опыт работы в Московских VIP семьях, рекомендации."
+    },
+    {
+        "title": "Сервис-Менеджер",
+        "url": "https://hh.ru/vacancy/121382516",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы в управлении персоналом, желательно от 1 года. Знание стандартов сервиса и гостеприимства. Умение работать с системами учета (Айко..."
+    },
+    {
+        "title": "Вечерняя уборщица/вечерний уборщик офисных помещений",
+        "url": "https://hh.ru/vacancy/121026924",
+        "salary": {
+            "from": 0,
+            "to": 0,
+            "currency": "не указана"
+        },
+        "requirements": "Опыт уборки офисных помещений. Качественное выполнение поддерживающей уборки. Аккуратное обращение с вверенным инвентарем. Ответственность, добросовестность, исполнительность, пунктуальность."
+    },
+    {
+        "title": "Уборщица/Уборщик в офис",
+        "url": "https://hh.ru/vacancy/119419481",
+        "salary": {
+            "from": 0,
+            "to": 50000,
+            "currency": "RUR"
+        },
+        "requirements": "Чистоплотность. Аккуратность. Пунктуальность."
+    },
+    {
+        "title": "Уборщица/уборщик в офис",
+        "url": "https://hh.ru/vacancy/121254866",
+        "salary": {
+            "from": 50000,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Ответственность, исполнительность, пунктуальность."
+    },
+    {
+        "title": "Уборщица/Уборщик в офис (м. Зюзино)",
+        "url": "https://hh.ru/vacancy/121331436",
+        "salary": {
+            "from": 52200,
+            "to": 0,
+            "currency": "RUR"
+        },
+        "requirements": "Опыт работы на аналогичной должности. Любовь к чистоте и трудолюбие. Готовность к физическому труду."
+    },
+    {
+        "title": "Администратор в мини-отель 6 номеров",
+        "url": "https://hh.ru/vacancy/120590523",
+        "salary": {
+            "from": 70000,
+            "to": 80000,
+            "currency": "RUR"
+        },
+        "requirements": "опыт работы от 1 года, грамотная речь, аккуратность, общительность. -любить готовить (каша, омлет, горячие бутерброды-блюда не сложные). -"
+    },
+    {
+        "title": "Ассистент отдела по работе с персоналом",
+        "url": "https://hh.ru/vacancy/121408850",
+        "salary": {
+            "from": 70000,
+            "to": 70000,
+            "currency": "RUR"
+        },
+        "requirements": "Знание ПК на уровне уверенного пользователя. - Умение самостоятельно планировать свой рабочий день. - Грамотная устная и письменная речь. - Исполнительность. - Пунктуальность. - Ответственность. - "
+    }
+]
